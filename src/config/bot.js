@@ -21,7 +21,7 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    Custom: [
+    Watching: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "Organizando la store CSK",
